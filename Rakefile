@@ -1,4 +1,5 @@
 require "bundler"
+require "deploy_my_gem/task"
 require "bundler/setup"
 Bundler::GemHelper.install_tasks
 

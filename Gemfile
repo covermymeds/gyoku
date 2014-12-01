@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+source 'https://gems.covermymeds.com'
 gemspec
 
 gem 'simplecov', :require => false
